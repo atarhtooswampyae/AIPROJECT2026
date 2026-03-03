@@ -1,6 +1,5 @@
 
 name: SAM Deploy
-
 on:
   push:
     branches: [ develop ]
